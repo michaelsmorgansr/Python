@@ -2,6 +2,7 @@
 | Gaussian elimination method for solving a system of linear equations.
 | Gaussian elimination - https://en.wikipedia.org/wiki/Gaussian_elimination
 """
+#Just adding a comment for class
 
 import numpy as np
 from numpy import float64
